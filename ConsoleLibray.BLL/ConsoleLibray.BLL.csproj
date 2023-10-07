@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ConsoleLibray.Core\ConsoleLibray.Core.csproj" />
+    <ProjectReference Include="..\ConsoleLibray.DAL\ConsoleLibray.DAL.csproj" />
+  </ItemGroup>
+
 </Project>
