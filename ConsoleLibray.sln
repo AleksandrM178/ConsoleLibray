@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleLibray.BLL", "Consol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleLibray.Core", "ConsoleLibray.Core\ConsoleLibray.Core.csproj", "{33151803-6AEC-4583-BE10-BA0E42880DDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleLibray.DAL", "ConsoleLibray.DAL\ConsoleLibray.DAL.csproj", "{EA36D108-1F1B-4C95-BE3F-2365AD0B3055}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{BAAF5072-DC4C-4117-9F45-F9ED5D210A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAAF5072-DC4C-4117-9F45-F9ED5D210A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAAF5072-DC4C-4117-9F45-F9ED5D210A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA36D108-1F1B-4C95-BE3F-2365AD0B3055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA36D108-1F1B-4C95-BE3F-2365AD0B3055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA36D108-1F1B-4C95-BE3F-2365AD0B3055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA36D108-1F1B-4C95-BE3F-2365AD0B3055}.Release|Any CPU.Build.0 = Release|Any CPU
 		{33151803-6AEC-4583-BE10-BA0E42880DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{33151803-6AEC-4583-BE10-BA0E42880DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33151803-6AEC-4583-BE10-BA0E42880DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
